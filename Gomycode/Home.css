@@ -1,0 +1,106 @@
+body{background: Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+    Linear-gradient(127deg, black, black 70.71%),
+    
+    Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+    
+     }
+     .gif{width: 100%;}
+body{margin: 0%;} 
+body{padding: 0%;}
+.logo{
+    width: 50px;
+    height: 50px;
+    }
+li{
+    display: inline;
+    margin: 50px;
+    font-size: 40px;
+    color: white;
+}
+a{
+    display: inline;
+    font-size: 40px;
+    color: white;
+    text-decoration: none;
+}
+
+.head{
+    background-image: url('res/courses.png');
+    height: 500px;
+    text-align: center;
+    padding-top: 10%;
+    box-sizing: border-box;
+}
+
+.head h1{
+    color: #fff;
+    font-size: 70px;
+}
+
+    
+.head2{
+    background-image: url('res/courses.png');
+    height: 500px;
+    text-align: center;
+    padding-top: 10%;
+    box-sizing: border-box;
+}
+
+.head2 h1{
+    color: #fff;
+    font-size: 70px;
+}
+.form{
+    font-size: 100px;
+    text-align: center;
+    color: white;
+}
+
+li:hover 
+{ color: red!important;
+    
+}
+
+.courses{
+    margin-top: 5%;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2%;
+}
+
+.row img{
+    margin-right: 4% ;
+}
+
+.input-groupe{
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    
+}
+
+.input-contact{
+    display: block;
+    margin: 10px auto;
+    width: 10%;
+    height: 20px;
+    border-radius:5px ;
+}
+
+.contact-form{
+    margin: 30px 0 ;
+}
+
+.submit{
+    width: 80px;
+    height: 29px;
+    margin-top: 10px;
+    border-radius: 3px ;
+    background-color: #337ab7 ;
+    border-color: #337ab7;
+    color: white;
+}
